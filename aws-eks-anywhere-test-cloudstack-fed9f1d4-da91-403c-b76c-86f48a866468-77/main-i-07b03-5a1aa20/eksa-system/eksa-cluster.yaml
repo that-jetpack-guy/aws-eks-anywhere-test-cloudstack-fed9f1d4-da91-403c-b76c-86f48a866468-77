@@ -40,7 +40,7 @@ spec:
   managementCluster:
     name: main-i-07b03-5a1aa20
   workerNodeGroupConfigurations:
-  - count: 1
+  - count: 3
     machineGroupRef:
       kind: CloudStackMachineConfig
       name: main-i-07b03-5a1aa20
